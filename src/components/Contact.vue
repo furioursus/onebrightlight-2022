@@ -27,8 +27,8 @@
                 <InputWrapper>
                   <Label name="Message" nameAttrib="message" />
                   <textarea class="h-48 footer-textarea" id="message" name="message" required placeholder="Hi there, you don’t know me, but I have a business proposition for you that I think you won’t want to pass up.
-                  
-  I don’t play well with others, but perhaps that’s because as far as developers go, I just haven't found one as charming as you yet."></textarea>
+
+I don’t play well with others, but perhaps that’s because as far as developers go, I just haven't found one as charming as you yet."></textarea>
                 </InputWrapper>
               </fieldset>
               <div class="mt-4 text-right">
