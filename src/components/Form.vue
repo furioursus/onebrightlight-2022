@@ -12,6 +12,7 @@
     data-netlify-honeypot="franks-field"
   >
     <input type="hidden" name="form-name" value="contact-form" />
+    <input type="hidden" name="franks-field" />
     <fieldset class="space-y-4">
       <InputWrapper>
         <Input name="Name" nameAttrib="name" id="name" required="true" type="text" placeholder="Dade Murphy" />
