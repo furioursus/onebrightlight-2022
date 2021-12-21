@@ -21,9 +21,9 @@
       </InputWrapper>
       <InputWrapper>
         <Label name="Message" nameAttrib="message" />
-        <textarea class="h-48 footer-textarea" id="message" name="message" required placeholder="Hi there, you don’t know me, but I have a business proposition for you that I think you won’t want to pass up.
+        <textarea class="h-48 sm:h-36 md:h-48 lg:h-44 footer-textarea" id="message" name="message" required placeholder="I was referred to you by Darren and Peter of Razor &amp; Blade Mktg. about raising an army of volunteers of growth hackers.
 
-I don’t play well with others, but perhaps that’s because as far as developers go, I just haven't found one as charming as you yet."></textarea>
+Would you happen to have 5 minutes to discuss? I know of a great rooftop we could meet at. It even has a pool."></textarea>
       </InputWrapper>
     </fieldset>
     <div class="mt-4 text-right">
