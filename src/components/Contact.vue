@@ -4,7 +4,7 @@
 
 <template>
   <div class="bg-jet-900" id="contact">
-    <div class="py-12 md:py-20 lg:py-24 bg-darker-jet-pattern">
+    <div class="bg-darker-jet-pattern hero-padding">
       <div class="container grid gap-4 mx-auto container-padding text-mint-600 md:gap-12 md:grid-cols-2">
         <div class="flex flex-col">
           <div>

@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="py-12 bg-jet-700 bg-dark-jet-pattern md:py-20 lg:py-24">
+  <div class="bg-jet-700 bg-dark-jet-pattern hero-padding">
     <div class="container grid gap-4 mx-auto container-padding text-mint-600 md:gap-12 md:grid-cols-2">
       <div class="flex flex-col md:justify-center">
         <h2 class="text-3xl font-bold sm:text-4xl lg:text-5xl font-heading xl:text-6xl 2xl:text-7xl">I’m online a lot.<br> Like <span class="text-tart-500">a lot</span> a lot.</h2>
